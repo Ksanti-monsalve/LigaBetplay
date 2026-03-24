@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\bin\Debug\net10.0\LigaBetplay.exe
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\bin\Debug\net10.0\LigaBetplay.deps.json
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\bin\Debug\net10.0\LigaBetplay.runtimeconfig.json
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\bin\Debug\net10.0\LigaBetplay.dll
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\bin\Debug\net10.0\LigaBetplay.pdb
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.AssemblyInfo.cs
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.dll
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\refint\LigaBetplay.dll
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.pdb
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\LigaBetplay.genruntimeconfig.cache
+C:\Users\Kevin\Documents\LigaBetplay_C_#\LigaBetplay\obj\Debug\net10.0\ref\LigaBetplay.dll
